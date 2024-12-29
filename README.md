@@ -22,6 +22,7 @@ In my portfolio projects, I have worked with the following technologies:
 ## Contact
 
 - **Email:** hrupayandas@gmail.com
+- **LinkedIN:** https://www.linkedin.com/in/rupayandas
 
 ## Social Media
 - [GitHub](https://github.com/rupayand97)
